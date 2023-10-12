@@ -15,14 +15,15 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 <details>
 <summary> <b> Technologies that I'm working and studying </b> <i>(To view, click here to expand)</i> </summary>
   
-### 💼 Working With
+### 💼 Now I'm Working With
 [![Java](https://img.shields.io/badge/java-E42D2C.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.oracle.com/br/java/technologies/downloads/)](https://www.oracle.com/br/java/technologies/downloads/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://www.javascript.com/)](https://www.javascript.com/)
 [![Spring](https://img.shields.io/badge/spring-6AAE3D.svg?style=for-the-badge&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
-[![Postgresql](https://img.shields.io/badge/postgresql-32648D.svg?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
-[![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Glossary/HTML5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-549FDE.svg?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Docker](https://img.shields.io/badge/docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Jenkins](https://img.shields.io/badge/jenkins-064C62.svg?style=for-the-badge&logo=jenkins&logoColor=white&link=https://www.jenkins.io/)](https://www.jenkins.io/)
 [![IntellijIDEA](https://img.shields.io/badge/intellijidea-C83C76.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&link=https://www.jetbrains.com/idea/)](https://www.jetbrains.com/idea/)
 
 
