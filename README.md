@@ -6,7 +6,7 @@
 
 ### 📖 About Me
 My name is Jaehyun Hong, and I am a software engineer with a passion for building innovative and high-quality applications.
-I am currently studying data structures and algorithms, as well as the Java and Go programming languages. Through my studies and practice, I have developed a strong understanding of logic and problem-solving, which I apply in my work as a engineer.
+I am currently studying data structures and algorithms, as well as the Java and Javascript programming languages. Through my studies and practice, I have developed a strong understanding of logic and problem-solving, which I apply in my work as a engineer.
   
 In addition to my programming skills, I have experience with databases and SQL, and I am proficient in both frontend and backend development. This allows me to design and implement complete and functional web applications, from the user interface to the underlying data and logic.
 
