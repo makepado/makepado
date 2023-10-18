@@ -2,11 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaehyun-hong-04bb55200/)](https://www.linkedin.com/in/jaehyun-hong-04bb55200/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hongjae30@gmail.com)](mailto:hongjae30@gmail.com)
 
-### Hello! Welcome to my GitHub profile! 👋 Here is gathered most of my study projects, my daily evolution in chase of seniority and proficiency as a programmer. 🏆
 
 ### 📖 About Me
 My name is Jaehyun Hong, and I am a software engineer with a passion for building innovative and high-quality applications.
-I am currently studying data structures and algorithms, as well as the Java and Javascript programming languages. Through my studies and practice, I have developed a strong understanding of logic and problem-solving, which I apply in my work as a engineer.
   
 In addition to my programming skills, I have experience with databases and SQL, and I am proficient in both frontend and backend development. This allows me to design and implement complete and functional web applications, from the user interface to the underlying data and logic.
 
