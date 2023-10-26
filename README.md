@@ -52,6 +52,4 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 [![Power Bi](https://img.shields.io/badge/power%20bi-F2C900.svg?style=for-the-badge&logo=powerbi&logoColor=35363A&link=https://powerbi.microsoft.com/en-us/)](https://powerbi.microsoft.com/en-us/)
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makepado&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmakepado%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
