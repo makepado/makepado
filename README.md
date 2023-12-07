@@ -15,7 +15,7 @@ which allows me to effectively collaborate with diverse teams and tackle complex
 please don't hesitate to contact me. Thanks for visiting my profile, and I hope to hear from you soon!
 
 <details>
-<summary> <b> Technologies that I'm working and handling</b> <i>(To view, click here to expand)</i> </summary>
+<summary> <b> Technologies that now I'm working and handling</b> <i>(To view, click here to expand)</i> </summary>
   
 ### 💼 Now I'm Working With
 [![Java](https://img.shields.io/badge/java-E42D2C.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.oracle.com/br/java/technologies/downloads/)](https://www.oracle.com/br/java/technologies/downloads/)
