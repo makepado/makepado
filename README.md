@@ -5,7 +5,9 @@
 
 ### 📖 About Me
 My name is Bobby Hong, and I am a software engineer.
+
 Passionate about building innovative and high-quality applications that deliver real business value.
+
 also, I like mountains and sports, and I like to live a life of service.
 
 <details>
